@@ -1,5 +1,5 @@
 ---
-title: "about number the stars"
+title: "NUMBER THE STARS"
 permalink: /about/
 layout: single
 ---
