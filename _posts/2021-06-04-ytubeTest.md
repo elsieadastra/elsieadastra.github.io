@@ -14,6 +14,7 @@ categories: "노래"
 - [ ] 발매일: 2021.01.08
 - [ ] 장르: POP
 - [ ] 가사:
+
 I got my driver's license
 
 last week
@@ -180,6 +181,7 @@ now I drive alone past your street
 - [ ] 발매일: 2021.04.01
 - [ ] 장르: POP
 - [ ] 가사: 
+
 Car rides to Malibu
 
 Strawberry ice cream
