@@ -323,9 +323,162 @@ I know you get deja vu
 ### 03. good 4 u
 {% include video id="gNi_6U5Pm_o" provider="youtube" %}
 
+- [ ] 앨범: good 4 u
+- [ ] 발매일: 2021.05.14
+- [ ] 장르: POP
+- [ ] 가사:
+
+Ah
+Well good for you
+I guess you moved
+on really easily
+You found a new girl
+and it only took a couple weeks
+Remember when you said
+that you wanted
+to give me the world
+Ah-ah-ah-ah
+And good for you
+I guess that you've been
+workin' on yourself
+I guess that therapist
+I found for you
+she really helped
+Now you can be a better man
+for your brand new girl
+Well good for you
+You look happy and healthy not me
+If you ever cared to ask
+Good for you
+You're doin' great out there
+without me baby
+God I wish that I could do that
+I've lost my mind
+I've spent the night
+Cryin' on the floor of my bathroom
+But you're so unaffected
+I really don't get it
+But I guess good for you
+Well good for you
+I guess you're gettin'
+everything you
+want Ah
+You bought a new car
+and your career's really takin'
+off Ah
+It's like we never even happened
+Baby what the fuck is up
+with that Ah
+And good for you
+it's like you never
+even met me
+Remember when you swore to God
+I was the only
+Person who ever got you
+Well screw that
+and screw you
+You will never have
+to hurt the way
+you know that I do
+Well good for you
+You look happy and healthy not me
+If you ever cared to ask
+Good for you
+You're doin' great out there
+without me baby
+God I wish that I could do that
+I've lost my mind
+I've spent the night
+Cryin' on the floor of my bathroom
+But you're so unaffected
+I really don't get it
+But I guess good for you
+Ah-ah-ah-ah
+Ah-ah-ah-ah
+Maybe I'm too emotional
+But your apathy's
+like a wound in salt
+Maybe I'm too emotional
+Or maybe you never cared at all
+Maybe I'm too emotional
+Your apathy is
+like a wound in salt
+Maybe I'm too emotional
+Or maybe you never cared at all
+Well good for you
+You look happy and healthy not me
+If you ever cared to ask
+Good for you
+You're doin' great out there
+without me baby
+Like a damn sociopath
+I've lost my mind
+I've spent the night
+Cryin' on the floor of my bathroom
+But you're so unaffected
+I really don't get it
+But I guess good for you
+Well good for you
+I guess you moved
+on really easily
+
 ---
 
 ### 04. happier
 {% include video id="ZQFmRXgeR-s" provider="youtube" %}
+
+- [ ] 앨범: SOUR
+- [ ] 발매일: 2021.01.08
+- [ ] 장르: POP
+- [ ] 가사:
+
+We broke up a month ago
+Your friends are mine, you know I know
+You've moved on, found someone new
+One more girl who brings out the better in you
+And I thought my heart was detached
+From all the sunlight of our past
+But she's so sweet, she's so pretty
+Does she mean you forgot about me?
+
+[Chorus]
+Oh, I hope you're happy
+But not like how you were with me
+I'm selfish, I know, I can't let you go
+So find someone great, but don't find no one better
+I hope you're happy, but don't be happier
+
+[Verse 2]
+And do you tell her she's the most beautiful girl you've ever seen?
+An eternal love bullshit you know you'll never mean
+Remember when I believed
+You meant it when you said it first to me?
+And now I'm pickin' her apart
+Like cuttin' her down will make you miss my wretched heart
+But she's beautiful, she looks kind
+She probably gives you butterflies
+
+[Chorus]
+I hope you're happy
+But not like how you were with me
+I'm selfish, I know, I can't let you go
+So find someone great, but don't find no one better
+I hope you're happy
+I wish you all the best, really
+Say you love her, baby
+Just not like you loved me
+And think of me fondly when your hands are on her
+I hope you're happy, but don't be happier
+
+[Bridge]
+Ooh, ooh-ooh
+Ooh-ooh, ooh-ooh
+
+[Chorus]
+I hope you're happy
+Just not like how you were with me
+I'm selfish, I know, can't let you go
+So find someone great, but don't find no one better
+I hope you're happy, but don't be happier
 
 ---
