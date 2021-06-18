@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "개념"
+  - title: "분류"
   url: /categories/
-  - title: "연도"
+  - title: "목록"
   url: /posts/
-  -title: "소개"
+  - title: "소개"
   url: /about/
