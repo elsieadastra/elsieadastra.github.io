@@ -10,10 +10,10 @@ categories: "노래"
 ### 01. drivers license
 {% include video id="ZmDBbnmKpqQ" provider="youtube" %}
 
-[]앨범: SOUR
-[]발매일: 2021.01.08
-[]장르: POP
-[]가사:
+- [ ] 앨범: SOUR
+- [ ] 발매일: 2021.01.08
+- [ ] 장르: POP
+- [ ] 가사:
 I got my driver's license
 last week
 Just like we always talked about
@@ -98,6 +98,78 @@ now I drive alone past your street
 ### 02. deja vu
 {% include video id="cii6ruuycQA" provider="youtube" %}
 
+- [ ] 앨범: deja vu
+- [ ] 발매일: 2021.04.01
+- [ ] 장르: POP
+- [ ] 가사: 
+Car rides to Malibu
+Strawberry ice cream
+one spoon for two
+And tradin' jackets
+Laughin' 'bout how small
+it looks on you
+Ha-ha-ha-ha ha-ha-ha-ha-ha
+ha-ha-ha-ha
+Watching reruns of Glee
+Bein' annoying singin' in harmony
+I bet she's braggin'
+to all her friends
+sayin' you're so unique hm
+So when you gonna tell her
+that we did that too
+She thinks it's special
+but it's all reused
+That was our place
+I found it first
+I made the jokes you tell to her
+when she's with you
+Do you get deja vu
+when she's with you
+Do you get deja vu Ah hmm
+Do you get deja vu Huh
+Do you call her
+almost say my name
+'Cause let's be honest
+we kinda do sound the same
+Another actress
+I hate to think
+that I was just your type
+And I bet
+that she knows Billy Joel
+'Cause you played her
+Uptown Girl
+You're singin' it together
+Now I bet you even tell her
+how you love her
+In between the chorus
+and the verse Ooh
+So when you gonna tell her
+that we did that too
+She thinks it's special
+but it's all reused
+That was the show we talked about
+Played you the songs
+she's singing now
+when she's with you
+Do you get deja vu
+when she's with you
+Do you get deja vu Oh-oh
+Do you get deja vu
+Strawberry ice cream in Malibu
+Don't act like we didn't do
+that shit too
+You're tradin' jackets
+like we used to do
+Yeah everything is all reused
+Play her piano
+but she doesn't know Oh oh
+That I was the one
+who taught you Billy Joel Oh
+A different girl now
+but there's nothing new
+I know you get deja vu
+I know you get deja vu
+I know you get deja vu
 ---
 
 ### 03. good 4 u
